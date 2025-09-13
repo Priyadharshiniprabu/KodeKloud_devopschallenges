@@ -1,6 +1,6 @@
 # Git Hooks Challenge – Post-Update Hook with Release Tags
 
-## 📌 Task Details  
+## 📌 Task Details 
 The Nautilus application development team has a bare Git repository located at `/opt/news.git`, which is cloned under `/usr/src/kodekloudrepos/news`.  
 Your task is to:  
 1. Create a **post-update hook** in this Git repository.  
