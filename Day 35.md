@@ -3,7 +3,7 @@
 ## 📌 Task Details 
 
 The Nautilus DevOps team wants to containerize applications.  
-For this task on **App Server 2**, you are asked to:
+For this task on **App Server 2**, you are asked to: 
 
 1. Install **Docker CE** (Community Edition).  
 2. Install **Docker Compose** plugin (used for multi-container applications).  
