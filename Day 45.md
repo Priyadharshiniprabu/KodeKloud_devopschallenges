@@ -121,7 +121,7 @@ curl -k https://localhost
 If the configuration is correct, you'll see the HTML response from your Apache server.
 
 ---
-![Dockerfile Test Screenshot](assets/Screenshot 2025-09-23 211853.png)
+![Dockerfile Test Screenshot](assets/Screenshot%202025-09-23%20211853.png)
 
 ---
 
