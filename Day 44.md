@@ -90,7 +90,7 @@ curl http://localhost:5002
 ```
 
 ---
-![Website Test Screenshot](assets/Screenshot 2025-09-23 091647.png)
+![Website Test Screenshot](assets/Screenshot%202025-09-23%20091647.png)
 
 ---
 
